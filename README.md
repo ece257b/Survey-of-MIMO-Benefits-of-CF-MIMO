@@ -1,4 +1,4 @@
-# Survey-of-MIMO-Benefits-of-CF-MIMO
+# Survey-of-MIMO/Benefits-of-CF-MIMO
 ## ECE 257B Group 7 Project: A Survey of MIMO/Benefits of Cell-Free MIMO
 ### Joseph Kuo, Andrew Liu, Stephen Wilcox
 ### jokuo@ucsd.edu, anl078@ucsd.edu, swilcox@ucsd.edu
