@@ -8,4 +8,6 @@ In order to run our code you must install Sionna and the packages required for S
 Installation guidelines can be found [here](https://github.com/nvlabs/sionna).
 
 You can find the our code in the code folder. 
-To execute the code, copy the files into a directory that supports running Sionna.
+To execute the code, copy the files into a directory that supports running Sionna and run them from there.
+
+You can find our final project report [here](https://github.com/ece257b/Survey-of-MIMO-Benefits-of-CF-MIMO/raw/main/Final_Project_Report.pdf).
